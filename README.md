@@ -1,0 +1,1 @@
+The ipynb file is a notebook that has the nueral network created using transfer learning for crop detection. It has some other cool things in it too such as the file changer. This problem arose because of differeing file extension names so it was fixed for each crop, kind of a hassle.
